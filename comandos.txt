@@ -2,3 +2,5 @@ pwd -> mostra caminho
 mkdir -> cria pasta
 ls -> lista arquivos
 cd -> move de diretório
+cat -> exibe conteúdo do arquivo
+rm -> remove arquivo do diretório
