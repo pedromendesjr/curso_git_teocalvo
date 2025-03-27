@@ -1,0 +1,4 @@
+pwd -> mostra caminho
+mkdir -> cria pasta
+ls -> lista arquivos
+cd -> move de diretório
