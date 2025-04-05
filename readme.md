@@ -11,3 +11,8 @@ Confira tudo o que temos no nosso Youtube. É Grátis.
 Pessoas participantes:
 
 	- Teo!
+
+Confira tudo no nosso Youtube! 
+
+[Curso Git 2025](https://youtube.com/@teomewhy)
+
